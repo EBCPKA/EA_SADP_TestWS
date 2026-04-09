@@ -3,5 +3,6 @@
 {"item_code":"1928-S","available_qty":"12,5","transfer_price":"5.250000","currency":"EUR"},
 {"item_code":"1920-S","available_qty":"0","transfer_price":"9.990000","currency":"EUR"},
 {"item_code":"2000-S","available_qty":"87","transfer_price":"2.100000","currency":"USD"},
-{"item_code":"GGB-1001","available_qty":"57,5","transfer_price":"15.000000","currency":"EUR"}
+{"item_code":"GGB-1001","available_qty":"57,5","transfer_price":"15.000000","currency":"EUR"},
+{"item_code":"PKA-1001","available_qty":"57,5","transfer_price":"15.000000","currency":"EUR"}
 ]
